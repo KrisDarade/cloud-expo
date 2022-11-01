@@ -14,7 +14,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <atlassian-connect-spring-boot.version>2.2.3</atlassian-connect-spring-boot.version>
+        <atlassian-connect-spring-boot.version>2.2.4</atlassian-connect-spring-boot.version>
     </properties>
 
     <dependencies>
@@ -48,12 +48,12 @@
         <dependency>
             <groupId>com.openhtmltopdf</groupId>
             <artifactId>openhtmltopdf-pdfbox</artifactId>
-            <version>1.0.8</version>
+            <version>1.0.9</version>
         </dependency>
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.13.1</version>
+            <version>1.15.3</version>
         </dependency>
         <!--Freemaker template -->
         <dependency>
